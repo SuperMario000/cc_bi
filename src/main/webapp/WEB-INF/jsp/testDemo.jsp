@@ -11,6 +11,6 @@
     <title>cc_bi 测试</title>
 </head>
 <body>
-
+    <h2>Hello, ${testDemo}</h2>
 </body>
 </html>
